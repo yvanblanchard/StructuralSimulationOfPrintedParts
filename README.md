@@ -230,9 +230,7 @@ Between two critical layers \(L_{c_i}\) and \(L_{c_{i+1}}\): [web:15]
 - **Infill modeling**:  
  - Either treat infill as a homogenized continuum with effective stiffness or explicitly mesh infill trusses in selected regions.  
 - **Bidirectional coupling to slicer**:  
- - Use simulation results to iteratively adjust wall thickness, infill density, or fiber placement, then regenerate the mesh for a new analysis loop.  
-
-This plan follows the logical structure of US11551417B2 / US20210150813A1 while leaving room for practical implementation choices and non-infringing variations in the exact details. [web:15]
+ - Use simulation results to iteratively adjust wall thickness, infill density, or fiber placement, then regenerate the mesh for a new analysis loop.
 
 
 
