@@ -1,6 +1,9 @@
 # Structural Simulation Of Printed Parts
 Modeling for FEA of 3D printed parts (FFF) with polymer materials.
 
+![image](https://github.com/user-attachments/assets/94bc0af2-2ae0-4a5f-97ce-af8327fe36fb)
+
+
 ## 1. Overview
 
 This document describes a meshing method that builds a finite element mesh directly from slicer-style data (per-layer toolpaths) rather than from the ideal CAD surface. [web:15]  
